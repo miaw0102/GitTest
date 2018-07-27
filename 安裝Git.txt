@@ -1,0 +1,10 @@
+GitHub(https://github.com/login)
+miaw0102@gmail.com
+mt630930
+
+安裝Git
+https://backlog.com/git-tutorial/tw/intro/intro2_1.html
+
+安裝順序
+1、msysgit  參考:http://blog.ctrlxctrlv.net/git-install-msysgit/
+2、TortoiseGit
